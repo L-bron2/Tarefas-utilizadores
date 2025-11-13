@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "lniciar",
+    "Projects": [
+      {
+        "Path": "Gestor de tarefas.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
